@@ -9,9 +9,7 @@ This project focuses on combining aesthetic UI design with functional JavaScript
 
 📸 Project Preview
 
-Upload your project image inside an assets or screenshots folder.
-
-![Dark Theme Calculator](Calci2.PNG)
+<img width="562" height="611" alt="Calci2" src="https://github.com/user-attachments/assets/53e69587-5610-4512-8d3b-3c4fad4ca106" />
 
 
 ✨ Features
