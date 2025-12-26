@@ -47,7 +47,7 @@ Darktheme_Calculator/
 
 │── README.md
 
-#**🎯 Purpose of the Project**
+# **🎯 Purpose of the Project**
 
 This project was created to:
 
