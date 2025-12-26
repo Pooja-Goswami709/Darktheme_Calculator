@@ -1,4 +1,4 @@
-## **🧮 Dark Theme Calculator**
+# **🧮 Dark Theme Calculator**
 
 A modern dark-themed calculator with a clean, minimal, and user-friendly interface.
 This project focuses on combining aesthetic UI design with functional JavaScript logic for everyday calculations.
@@ -47,7 +47,7 @@ Darktheme_Calculator/
 
 │── README.md
 
-# **🎯 Purpose of the Project**
+## **🎯 Purpose of the Project**
 
 This project was created to:
 
@@ -65,7 +65,7 @@ Styling modern UI components with CSS
 
 Structuring small frontend projects
 
-# **🔮 Future Enhancements**
+## **🔮 Future Enhancements**
 
 Add keyboard input support
 
@@ -73,7 +73,7 @@ Include scientific calculator functions
 
 Improve animations and transitions
 
-# **👩‍💻 Author**
+## **👩‍💻 Author**
 
 Pooja Goswami
 
