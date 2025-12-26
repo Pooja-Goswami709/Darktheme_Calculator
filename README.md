@@ -11,7 +11,8 @@ This project focuses on combining aesthetic UI design with functional JavaScript
 
 Upload your project image inside an assets or screenshots folder.
 
-![Dark Theme Calculator](assets/calculator.png)
+![Dark Theme Calculator](Calci2.PNG)
+
 
 ✨ Features
 
@@ -35,11 +36,17 @@ JavaScript – calculator logic
 
 📂 Project Structure
 Darktheme_Calculator/
+
 │── index.html
+
 │── style.css
+
 │── script.js
+
 │── assets/
+
 │   └── calculator.png
+
 │── README.md
 
 🎯 Purpose of the Project
